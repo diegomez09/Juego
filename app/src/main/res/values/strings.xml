@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Juego</string>
+    <string name="TituloHome">El Ahorcado</string>
+    <string name="HolderName">Ingresa tu nombre</string>
+</resources>
